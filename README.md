@@ -28,7 +28,7 @@ The Restaurant Management System project is a command-line application that allo
 2. To copy the code to your own machine ,clone the repository  into a specified directory, by typing the line "git clone" followed by the provided link, that can be found on the code button on github i.e ;
 
 ```
-Git clone https://github.com/Riob-a/Phase-3-Project-Heaters
+Git clone https://github.com/m11toh/phase3-Ecommerce-project
 ```
 3. Access the cloned code using the code editor of your choice
 
