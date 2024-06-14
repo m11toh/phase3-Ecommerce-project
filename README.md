@@ -10,7 +10,7 @@ The Restaurant Management System project is a command-line application that allo
 - Models: Defined in models.py to represent customers, menu items, orders, and order items.
 - Operations: CRUD operations provided in operations.py.
 - CLI: A user-friendly command-line interface in main.py for interacting with the system.
-- Database: An SQLite database (restaurant.db) to store data persistently.
+- Database: An SQLite database (e_commerce.db) to store data persistently.
 
 ## Installation
  Fork and clone the folders to your own repository
